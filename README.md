@@ -1,2 +1,1 @@
-# mystaticweb
-static website 
+Simple static website for testing.
