@@ -1,3 +1,5 @@
+Direct acccess to website: https://patilrahul99.github.io/Static-website/
+
 # Static Website
 
 - A simple static website created for testing and practice purposes.  
